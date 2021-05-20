@@ -2,12 +2,11 @@
 
 1. Clone repository
 2. Install the dependencies and devDependencies
-
-##### `npm install`
+### `npm install`
 
 3. Start react app
-
 ### `npm start`
+
 
 Struktura komponentów:
 
