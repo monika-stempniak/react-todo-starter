@@ -1,12 +1,17 @@
 # React Todo App
 
-To start development you can run:
+1. Clone repository
+2. Install the dependencies and devDependencies
+
+##### `npm install`
+
+3. Start react app
 
 ### `npm start`
 
 Struktura komponentów:
 
-- <App />
-- <TodoList />
-- <Todo />
-- <TodoForm />
+- App
+- TodoList
+- Todo
+- TodoForm
